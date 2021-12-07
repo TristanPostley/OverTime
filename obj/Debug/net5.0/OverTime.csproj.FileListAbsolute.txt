@@ -1,0 +1,16 @@
+D:\Revature\OverTime\bin\Debug\net5.0\OverTime.exe
+D:\Revature\OverTime\bin\Debug\net5.0\OverTime.deps.json
+D:\Revature\OverTime\bin\Debug\net5.0\OverTime.runtimeconfig.json
+D:\Revature\OverTime\bin\Debug\net5.0\OverTime.runtimeconfig.dev.json
+D:\Revature\OverTime\bin\Debug\net5.0\OverTime.dll
+D:\Revature\OverTime\bin\Debug\net5.0\ref\OverTime.dll
+D:\Revature\OverTime\bin\Debug\net5.0\OverTime.pdb
+D:\Revature\OverTime\obj\Debug\net5.0\OverTime.csproj.AssemblyReference.cache
+D:\Revature\OverTime\obj\Debug\net5.0\OverTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\OverTime\obj\Debug\net5.0\OverTime.AssemblyInfoInputs.cache
+D:\Revature\OverTime\obj\Debug\net5.0\OverTime.AssemblyInfo.cs
+D:\Revature\OverTime\obj\Debug\net5.0\OverTime.csproj.CoreCompileInputs.cache
+D:\Revature\OverTime\obj\Debug\net5.0\OverTime.dll
+D:\Revature\OverTime\obj\Debug\net5.0\ref\OverTime.dll
+D:\Revature\OverTime\obj\Debug\net5.0\OverTime.pdb
+D:\Revature\OverTime\obj\Debug\net5.0\OverTime.genruntimeconfig.cache
